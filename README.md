@@ -1,2 +1,5 @@
-# TorrentT
-Link to:  torrenttribe.com
+# TorrentTribe
+Link to: torrenttribe.com
+
+https://torrenttribe.com/
+torrenttribe.com

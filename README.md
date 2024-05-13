@@ -1,5 +1,4 @@
-# TorrentTribe
-Link to: torrenttribe.com
-#################################
+# TorrentTribeLink
+
 https://torrenttribe.com/
-#################################
+
